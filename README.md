@@ -7,7 +7,7 @@ Pagina inicial do Relatório do cucumber, utilizado para validar de forma visual
 * maven -> gerenciador de dependências
 * java 11 -> linguagem utilizada
 
-### Executando os teste pela IDE Intellij
+### Executando os teste pela IDE
 
 * Pode ser encontrado no pacote Runner um arquivo chamado SicrediRunnerTest basta executa-lo como JUnit Test. 
 
